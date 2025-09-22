@@ -23,4 +23,4 @@ The pipeline:
 - Runs tests
 - Builds Docker image
 - Pushes to Docker Hub
-```
+
