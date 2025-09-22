@@ -9,6 +9,8 @@ npm install
 npm test
 npm start
 ```
+<img width="1913" height="795" alt="image" src="https://github.com/user-attachments/assets/d8b6545f-2f73-46b8-92a5-96dba15993fe" />
+
 
 <img width="1916" height="998" alt="image" src="https://github.com/user-attachments/assets/21c32851-c326-46a8-9b41-22dad45a2202" />
 
