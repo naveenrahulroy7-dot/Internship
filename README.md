@@ -9,7 +9,6 @@ npm install
 npm test
 npm start
 ```
-<img width="1913" height="795" alt="image" src="https://github.com/user-attachments/assets/d8b6545f-2f73-46b8-92a5-96dba15993fe" />
 
 
 <img width="1916" height="998" alt="image" src="https://github.com/user-attachments/assets/21c32851-c326-46a8-9b41-22dad45a2202" />
@@ -21,6 +20,9 @@ npm start
 docker build -t nodejs-demo-app .
 docker run -p 3000:3000 nodejs-demo-app
 ```
+<img width="1913" height="795" alt="image" src="https://github.com/user-attachments/assets/1f7ee007-c90c-4ef1-a5e0-adfa3c981382" />
+
+
 
 <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/094d95ac-6cff-4545-9728-ba9be0eee325" />
 
