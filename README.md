@@ -20,11 +20,6 @@ npm start
 docker build -t nodejs-demo-app .
 docker run -p 3000:3000 nodejs-demo-app
 ```
-<img width="1913" height="795" alt="image" src="https://github.com/user-attachments/assets/1f7ee007-c90c-4ef1-a5e0-adfa3c981382" />
-
-
-
-<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/094d95ac-6cff-4545-9728-ba9be0eee325" />
 
 
 ## CI/CD
@@ -32,5 +27,13 @@ docker run -p 3000:3000 nodejs-demo-app
 The pipeline:
 - Runs tests
 - Builds Docker image
-- Pushes to Docker Hub
+- Pushes to Docker Hu
+
+<img width="1895" height="438" alt="image" src="https://github.com/user-attachments/assets/76d9af24-4fe9-4695-9d22-fcf88bf433fa" />
+---
+<img width="1913" height="795" alt="image" src="https://github.com/user-attachments/assets/1f7ee007-c90c-4ef1-a5e0-adfa3c981382" />
+---
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/094d95ac-6cff-4545-9728-ba9be0eee325" />
+
+b
 
